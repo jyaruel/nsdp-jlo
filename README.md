@@ -1,4 +1,4 @@
-# Open SDG - Simple starter
+# nsdp-jlo
 
 This is a starter repository to help in implementing the [Open SDG](https://open-sdg.org) platform. [See here for documentation](https://open-sdg.readthedocs.io) on Open SDG.
 
