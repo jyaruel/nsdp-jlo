@@ -111,7 +111,9 @@ menu:
   - path: /faq
     translation_key: menu.faq
   - path: /news
-    translation_key: menu.updates
+    translation_key: Blog
+  - path: https://open-sdg.org
+    translation_key: Open SDG
 
 footer_menu:
   - path: mailto:my-email-address@example.com
