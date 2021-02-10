@@ -124,7 +124,7 @@ footer_menu:
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
-  -  path: https://open-sdg.org
+  - path: https://open-sdg.org
     translation_key: Open SDG
 
 # Configure the text (or "translation key") to be used on the
